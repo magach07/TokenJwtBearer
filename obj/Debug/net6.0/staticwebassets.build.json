@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "j+oQQEdT1ZPxuYtX/7UjClRAmDxaen0lB4pU0E8+OBQ=",
+  "Source": "TokenJwtBearer",
+  "BasePath": "_content/TokenJwtBearer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
