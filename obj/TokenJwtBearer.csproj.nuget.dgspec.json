@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jonathan Demetrio\\source\\repos\\TokenJwtBearer\\TokenJwtBearer.csproj": {}
+    "c:\\Users\\Jonathan Demetrio\\source\\repos\\TokenJwtBearer\\TokenJwtBearer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jonathan Demetrio\\source\\repos\\TokenJwtBearer\\TokenJwtBearer.csproj": {
+    "c:\\Users\\Jonathan Demetrio\\source\\repos\\TokenJwtBearer\\TokenJwtBearer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jonathan Demetrio\\source\\repos\\TokenJwtBearer\\TokenJwtBearer.csproj",
+        "projectUniqueName": "c:\\Users\\Jonathan Demetrio\\source\\repos\\TokenJwtBearer\\TokenJwtBearer.csproj",
         "projectName": "TokenJwtBearer",
-        "projectPath": "C:\\Users\\Jonathan Demetrio\\source\\repos\\TokenJwtBearer\\TokenJwtBearer.csproj",
+        "projectPath": "c:\\Users\\Jonathan Demetrio\\source\\repos\\TokenJwtBearer\\TokenJwtBearer.csproj",
         "packagesPath": "C:\\Users\\Jonathan Demetrio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jonathan Demetrio\\source\\repos\\TokenJwtBearer\\obj\\",
+        "outputPath": "c:\\Users\\Jonathan Demetrio\\source\\repos\\TokenJwtBearer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -92,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
